@@ -2,7 +2,7 @@ INTRODUCTION:
     1. Frontend Application written mainly in Javascript using Bootstrap clasees for styling.
     2. It fetches live news by calling gnews.io API which
 
-FUNCTION:
+FUNCTIONS:
     1. It shows top news headlines in general at home page.
     2. For each news item, user can see its title, corresponding description, source of the news, its updation time and a relevant image for visual  representation of news, user can go the main reference to read the full article.
     3. There are 2 end points provided- Search By Keyword and Search by Category.
